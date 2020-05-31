@@ -1,1 +1,1 @@
-Leaderboard server with flask and pandas framework.
+Leaderboard server with flask and PostgreSQL.
